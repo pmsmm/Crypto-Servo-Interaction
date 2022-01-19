@@ -1,4 +1,4 @@
-# Crypto-Servo-Interaction
+# Crypto Servo Interaction
 
 The Crypto Servo Interaction is a mini game that was developed for my Master Thesis "Developing a Support Infrastructure for an Escape The Room and Peddy Paper Games".
 
